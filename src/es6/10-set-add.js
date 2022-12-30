@@ -6,3 +6,4 @@ list.add('item2').add('item3')
 
 console.log(list)
 
+
