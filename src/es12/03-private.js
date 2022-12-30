@@ -48,6 +48,5 @@ class user {
 }
 
 const devxer = new user('Serrgio', 28)
-
 console.log(devxer.uAge);
 console.log(devxer.uAge = 20);
